@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+.cont-lista{
+    display: flex;
+    margin: 0 8px 0 0;
+
+    list-style: none;
+}
+li{
+    padding: 18px 12px;
+}
+a{  
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
+
